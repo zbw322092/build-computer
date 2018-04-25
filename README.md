@@ -1,0 +1,1 @@
+Resources about building computer. Mostly focus on computer science part, rather than electronic engineering part. Most resources come from "NAND to Tetris" tutorial(http://www.nand2tetris.org/).
